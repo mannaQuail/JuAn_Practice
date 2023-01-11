@@ -1,5 +1,4 @@
 ﻿#include <stdio.h>
-#include <Windows.h>
 
 int a[9][9] = { 0, };
 
