@@ -40,6 +40,7 @@ ref.
   http://www.statiz.co.kr/main.php (리그 평균 wOBA, wOBA scale 등 리그의 전체적인 지표를 확인)<br>
   https://sabermetrics-kbo.tistory.com/24 (WAR 계산 방법)<br>
 </ol>
+
 # #4 tetris game
 Date : 12/20/2022<br>
 line number : 506<br>
